@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working in Istanbulls 6064 <br>I love to coding <br>ROBOTTTSSSS
+I am working in Istanbulls 6064 <br style="bacground-color=#0000">I love to coding <br>ROBOTTTSSSS
 
 
 ## 🌐 Socials:
